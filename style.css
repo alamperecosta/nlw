@@ -8,7 +8,7 @@
 }
 
 body {
-    background-image: url('Fundo.jpg');
+    background-image: url('./assets/Fundo.jpg');
     background-position: top center;
     background-size: 100% auto;
     background-repeat: no-repeat;
